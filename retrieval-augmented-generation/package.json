@@ -1,0 +1,23 @@
+{
+  "name": "retrieval-augmented-generation",
+  "version": "0.1.0",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sac De Noeuds <sacdenoeuds.dev@gmail.com>",
+  "license": "MIT",
+  "description": " Levels to pass for different AI fields",
+  "dependencies": {
+    "xsai": "^0.4.0-beta.1",
+    "zod-to-json-schema": "^3.24.6"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2",
+    "zod": "^3.25.76"
+  }
+}
