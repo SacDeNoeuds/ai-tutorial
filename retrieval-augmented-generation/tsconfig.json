@@ -1,5 +1,5 @@
 {
-  "include": ["level-1/"],
+  "include": ["level-1/", "level-2/", "level-3/", "utilities/"],
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
